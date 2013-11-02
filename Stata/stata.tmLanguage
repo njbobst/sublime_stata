@@ -12,7 +12,7 @@
 	<key>foldingStopMarker</key>
 	<string>\*\*/|^\s*\}</string>
 	<key>name</key>
-	<string>Stata</string>
+	<string>StataMP</string>
 	<key>patterns</key>
 	<array>
 		<dict>
